@@ -24,7 +24,7 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.imgur.com/Kj2CmiZ.jpegv"];
+["https://i.postimg.cc/1XhB5fnQ/20250808-190722.jpg"];
 var callback = () => api.sendMessage({body:`
 ╔════◇◆◇════╗
       🌟 𝗕𝗢𝗧 𝗣𝗥𝗢𝗙𝗜𝗟𝗘 🌟
